@@ -1,0 +1,10 @@
+R:\Picourse\HomeHub\HomeHub.Application\bin\Debug\netstandard2.0\linux-arm\HomeHub.Application.deps.json
+R:\Picourse\HomeHub\HomeHub.Application\bin\Debug\netstandard2.0\linux-arm\HomeHub.Application.dll
+R:\Picourse\HomeHub\HomeHub.Application\bin\Debug\netstandard2.0\linux-arm\HomeHub.Application.pdb
+R:\Picourse\HomeHub\HomeHub.Application\obj\Debug\netstandard2.0\linux-arm\HomeHub.Application.csproj.AssemblyReference.cache
+R:\Picourse\HomeHub\HomeHub.Application\obj\Debug\netstandard2.0\linux-arm\HomeHub.Application.GeneratedMSBuildEditorConfig.editorconfig
+R:\Picourse\HomeHub\HomeHub.Application\obj\Debug\netstandard2.0\linux-arm\HomeHub.Application.AssemblyInfoInputs.cache
+R:\Picourse\HomeHub\HomeHub.Application\obj\Debug\netstandard2.0\linux-arm\HomeHub.Application.AssemblyInfo.cs
+R:\Picourse\HomeHub\HomeHub.Application\obj\Debug\netstandard2.0\linux-arm\HomeHub.Application.csproj.CoreCompileInputs.cache
+R:\Picourse\HomeHub\HomeHub.Application\obj\Debug\netstandard2.0\linux-arm\HomeHub.Application.dll
+R:\Picourse\HomeHub\HomeHub.Application\obj\Debug\netstandard2.0\linux-arm\HomeHub.Application.pdb

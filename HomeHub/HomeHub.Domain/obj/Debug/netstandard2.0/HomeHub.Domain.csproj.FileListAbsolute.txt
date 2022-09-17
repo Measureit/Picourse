@@ -1,0 +1,10 @@
+R:\Picourse\HomeHub\HomeHub.Domain\bin\Debug\netstandard2.0\HomeHub.Domain.deps.json
+R:\Picourse\HomeHub\HomeHub.Domain\bin\Debug\netstandard2.0\HomeHub.Domain.dll
+R:\Picourse\HomeHub\HomeHub.Domain\bin\Debug\netstandard2.0\HomeHub.Domain.pdb
+R:\Picourse\HomeHub\HomeHub.Domain\obj\Debug\netstandard2.0\HomeHub.Domain.csproj.AssemblyReference.cache
+R:\Picourse\HomeHub\HomeHub.Domain\obj\Debug\netstandard2.0\HomeHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+R:\Picourse\HomeHub\HomeHub.Domain\obj\Debug\netstandard2.0\HomeHub.Domain.AssemblyInfoInputs.cache
+R:\Picourse\HomeHub\HomeHub.Domain\obj\Debug\netstandard2.0\HomeHub.Domain.AssemblyInfo.cs
+R:\Picourse\HomeHub\HomeHub.Domain\obj\Debug\netstandard2.0\HomeHub.Domain.csproj.CoreCompileInputs.cache
+R:\Picourse\HomeHub\HomeHub.Domain\obj\Debug\netstandard2.0\HomeHub.Domain.dll
+R:\Picourse\HomeHub\HomeHub.Domain\obj\Debug\netstandard2.0\HomeHub.Domain.pdb

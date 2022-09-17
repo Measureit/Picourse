@@ -1,0 +1,5 @@
+R:\Picourse\HomeHub\HomeHub.Infrastructure\obj\Debug\netstandard2.0\HomeHub.Infrastructure.csproj.AssemblyReference.cache
+R:\Picourse\HomeHub\HomeHub.Infrastructure\obj\Debug\netstandard2.0\HomeHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+R:\Picourse\HomeHub\HomeHub.Infrastructure\obj\Debug\netstandard2.0\HomeHub.Infrastructure.AssemblyInfoInputs.cache
+R:\Picourse\HomeHub\HomeHub.Infrastructure\obj\Debug\netstandard2.0\HomeHub.Infrastructure.AssemblyInfo.cs
+R:\Picourse\HomeHub\HomeHub.Infrastructure\obj\Debug\netstandard2.0\HomeHub.Infrastructure.csproj.CoreCompileInputs.cache

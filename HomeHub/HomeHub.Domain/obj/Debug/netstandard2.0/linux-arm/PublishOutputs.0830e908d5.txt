@@ -1,0 +1,3 @@
+R:\Picourse\HomeHub\bin\linux-arm\publish\HomeHub.Domain.dll
+R:\Picourse\HomeHub\bin\linux-arm\publish\HomeHub.Domain.deps.json
+R:\Picourse\HomeHub\bin\linux-arm\publish\HomeHub.Domain.pdb

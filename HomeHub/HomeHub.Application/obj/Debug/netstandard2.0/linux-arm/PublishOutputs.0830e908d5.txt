@@ -1,0 +1,3 @@
+R:\Picourse\HomeHub\bin\linux-arm\publish\HomeHub.Application.dll
+R:\Picourse\HomeHub\bin\linux-arm\publish\HomeHub.Application.deps.json
+R:\Picourse\HomeHub\bin\linux-arm\publish\HomeHub.Application.pdb

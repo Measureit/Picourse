@@ -1,0 +1,17 @@
+R:\Picourse\HomeHub\bin\linux-arm\publish\HomeHub.Infrastructure.dll
+R:\Picourse\HomeHub\bin\linux-arm\publish\HomeHub.Infrastructure.deps.json
+R:\Picourse\HomeHub\bin\linux-arm\publish\HomeHub.Infrastructure.pdb
+R:\Picourse\HomeHub\bin\linux-arm\publish\Iot.Device.Bindings.dll
+R:\Picourse\HomeHub\bin\linux-arm\publish\Microsoft.Extensions.Logging.Abstractions.dll
+R:\Picourse\HomeHub\bin\linux-arm\publish\Microsoft.Win32.SystemEvents.dll
+R:\Picourse\HomeHub\bin\linux-arm\publish\SixLabors.ImageSharp.dll
+R:\Picourse\HomeHub\bin\linux-arm\publish\System.CodeDom.dll
+R:\Picourse\HomeHub\bin\linux-arm\publish\System.Device.Gpio.dll
+R:\Picourse\HomeHub\bin\linux-arm\publish\System.Drawing.Common.dll
+R:\Picourse\HomeHub\bin\linux-arm\publish\System.IO.Ports.dll
+R:\Picourse\HomeHub\bin\linux-arm\publish\System.Management.dll
+R:\Picourse\HomeHub\bin\linux-arm\publish\System.Text.Json.dll
+R:\Picourse\HomeHub\bin\linux-arm\publish\UnitsNet.dll
+R:\Picourse\HomeHub\bin\linux-arm\publish\libSystem.IO.Ports.Native.so
+R:\Picourse\HomeHub\bin\linux-arm\publish\HomeHub.Application.dll
+R:\Picourse\HomeHub\bin\linux-arm\publish\HomeHub.Application.pdb
